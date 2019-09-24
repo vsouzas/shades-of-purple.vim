@@ -4,7 +4,7 @@
 " URL: 
 " Author: Alexander Keliris
 " License: MIT
-" Last Change: 2019/09/22 09:38
+" Last Change: 2019/09/24 08:32
 " ===============================================================
 
 set background=dark
@@ -28,7 +28,7 @@ endif
 
 let g:shades_of_purple_bold = get(g:, 'shades_of_purple_bold', 0)
 hi ColorColumn guifg=#1E1E3F ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Conceal guifg=#1E1E3F ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Conceal guifg=#FF9D00 ctermfg=214 guibg=#1E1E3F ctermbg=234 gui=NONE cterm=NONE
 hi Cursor guifg=#FAD000 ctermfg=220 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#1E1E3F ctermbg=234 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#1E1E3F ctermbg=234 gui=NONE cterm=NONE

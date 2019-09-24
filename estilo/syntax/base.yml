@@ -1,6 +1,6 @@
 # BASE UI
 ColorColumn: "backgroundDark"
-Conceal: "backgroundDark"
+Conceal: "keywords backgroundDark"
 Cursor: "contrast"
 CursorIM: ""
 CursorColumn: "- backgroundDark"
